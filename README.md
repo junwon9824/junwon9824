@@ -5,9 +5,7 @@
 <!--
 **junwon9824/junwon9824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=junwon1131)](https://solved.ac/junwon1131)
-Here are some ideas to get you started:
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junwon1131)](https://solved.ac/junwon1131)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
