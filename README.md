@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
 
  ## programmers 
- https://programmers.co.kr/users/profile
+https://programmers.co.kr/users/challenge-activity
  
  ## boj 
  
